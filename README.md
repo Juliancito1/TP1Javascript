@@ -24,4 +24,4 @@ git clone https://github.com/Juliancito1/TP1Javascript
 Julián Martín [GitHub](https://github.com/Juliancito1)
 
 ## Información
-La información para la realización del trabajo práctico fue sacada de las clases por Zoom y de la página [MozillaDeveloper](https://developer.mozilla.org/es/)
+La información para la realización del trabajo práctico fue sacada de las clases por Zoom y de la página [DeveloperMozilla](https://developer.mozilla.org/es/)
